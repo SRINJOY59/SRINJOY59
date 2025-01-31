@@ -15,6 +15,12 @@
   <a href="https://www.kaggle.com/srinjoy3222">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="30px" alt="Kaggle"/>
   </a>
+  <a href="https://www.instagram.com/inquisitive_mind.18/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30px" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/srinjoy.das.12">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="30px" alt="Facebook"/>
+  </a>
 </p>
 
 <h3 style="font-family: sans-serif; text-decoration: none; cursor: none;">
