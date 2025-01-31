@@ -12,12 +12,6 @@
   <a href="https://www.linkedin.com/in/srinjoy-das-174648202">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" alt="LinkedIn"/>
   </a>
-  <a href="https://codeforces.com/profile/Srinjoy3222">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" width="30px" alt="Codeforces"/>
-  </a>
-  <a href="https://www.codechef.com/users/rockstar4119">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" width="30px" alt="CodeChef"/>
-  </a>
   <a href="https://www.kaggle.com/srinjoy3222">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="30px" alt="Kaggle"/>
   </a>
@@ -33,21 +27,7 @@
   </a>
 </p>
 
-<h3 style="font-family: sans-serif; text-decoration: none; cursor: none;">
-  📂 <span style="color: #00c2e0">Highlighted Projects:</span>
-</h3>
 
-- **CompetitiveProgramming**: A collection of solutions to various competitive programming problems, primarily implemented in C++. This repository reflects my dedication to enhancing problem-solving abilities and participating in coding competitions.
-
-- **Soft_project_latest**: A project utilizing CSS, indicating my involvement in software development with a focus on styling and design.
-
-- **DSA**: Dedicated to Data Structures and Algorithms, this repository features implementations and problem-solving approaches in C++, showcasing my commitment to mastering fundamental computer science concepts.
-
-- **Healthcare_NLP_application**: A project involving the use of Natural Language Processing techniques in healthcare applications, with code written in Jupyter Notebook.
-
-- **AppianChallenge**: A Python-based project, possibly related to a challenge or competition, showcasing my problem-solving and coding skills.
-
-- **CSX_Blockchain_Disease_detection**: This JavaScript project explores the integration of blockchain technology in disease detection systems, indicating an interest in innovative technological solutions.
 
 <h3 style="font-family: sans-serif; text-decoration: none; cursor: none;">
   ⚙ <span style="color: #00c2e0">Tech Stack:</span>
@@ -84,7 +64,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width=35 alt="Docker"/>
 </div>
 
-![Srinjoy Das](https://raw.githubusercontent.com/SRINJOY59/SRINJOY59/main/Images/bottom_header.svg)
 <br/>
 
 ---
