@@ -49,7 +49,7 @@
 
 <h4 style="font-family: sans-serif;">Web Development</h4>
 <div style="display: flex; gap:12px; flex-wrap: wrap;">
-  <img src="" width=35 alt="Django"/>
+  <img src="https://console.kamatera.com/assets/images/os/os_django.png" width=35 alt="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=35 alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=35 alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=35 alt="Bootstrap"/>
