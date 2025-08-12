@@ -2,7 +2,7 @@
   Hey there, I am <span style="color: #00c2e0">Srinjoy Das</span>
 </h3>
 <h4 align="left" style="font-family: sans-serif; font-weight: normal;">
-  Currently pursuing my studies at IIT Kharagpur, I am passionate about Artificial Intelligence, Machine Learning, Large Language Models, Full Stack Development with Django, and Data Structures & Algorithms in C++.
+  Currently pursuing my studies at IIT Kharagpur, I am passionate about Artificial Intelligence, Machine Learning, Quantitative Finance, Large Language Models, Full Stack Development with Django, and Data Structures & Algorithms in C++.
 </h4>
 
 <h3 style="font-family: sans-serif; text-decoration: none; cursor: none;">
