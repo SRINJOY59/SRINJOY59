@@ -85,8 +85,6 @@ me.say_hi()
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SRINJOY59&theme=tokyo-night&hide_border=true&area=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=SRINJOY59&theme=tokyonight&no-frame=true&row=1&column=7)
-
 </div>
 
 ---
