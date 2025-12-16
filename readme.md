@@ -1,76 +1,182 @@
-<h3 align="left" style="font-family: sans-serif; text-decoration: none; cursor: none;">
-  Hey there, I am <span style="color: #00c2e0">Srinjoy Das</span>
-</h3>
-<h4 align="left" style="font-family: sans-serif; font-weight: normal;">
-  Currently pursuing my studies at IIT Kharagpur, I am passionate about Artificial Intelligence, Machine Learning, Quantitative Finance, Large Language Models, Full Stack Development with Django, and Data Structures & Algorithms in C++.
-</h4>
+<div align="center">
 
-<h3 style="font-family: sans-serif; text-decoration: none; cursor: none;">
-  🌐 <span style="color: #00c2e0">Socials:</span>
-</h3>
-<p style="color: #fff; font-family: sans-serif;">
-  <a href="https://www.linkedin.com/in/srinjoy-das-174648202">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" alt="LinkedIn"/>
-  </a>
-  
-  <a href="https://www.instagram.com/inquisitive_mind.18/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30px" alt="Instagram"/>
-  </a>
-  <a href="https://www.facebook.com/srinjoy.das.12">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="30px" alt="Facebook"/>
-  </a>
-  <a href="https://www.kaggle.com/srinjoy3222">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="30px" alt="Kaggle"/>
-  </a>
-</p>
+# Hey there, I'm Srinjoy Das
 
-<h3 style="font-family: sans-serif; text-decoration: none; cursor: none;">
-  ⚙️ <span style="color: #00c2e0">GitHub Analytics</span>
-</h3>
-<p align="center">
-  <a href="https://github.com/SRINJOY59">
-    <img width="55.5%" src="https://github-readme-stats.vercel.app/api?username=SRINJOY59&theme=github_dark&show_icons=true" alt="GitHub Stats"/>
-    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRINJOY59&layout=compact&theme=github_dark" alt="Top Languages"/>
-  </a>
-</p>
+### AI/ML Engineer | Full Stack Developer | Quantitative Finance Enthusiast
 
+Currently pursuing my studies at **IIT Kharagpur**, passionate about pushing the boundaries of Artificial Intelligence, Machine Learning, Quantitative Finance, Large Language Models, Full Stack Development with Django, and Data Structures & Algorithms in C++.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinjoy-das-174648202)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SRINJOY59)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/srinjoy3222)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/inquisitive_mind.18/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/srinjoy.das.12)
 
-<h3 style="font-family: sans-serif; text-decoration: none; cursor: none;">
-  ⚙ <span style="color: #00c2e0">Tech Stack:</span>
-</h3>
-
-<h4 style="font-family: sans-serif;">Programming Languages</h4>
-<div style="display: flex; gap:12px; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=35 alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=35 alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=35 alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=35 alt="JavaScript"/>
 </div>
-
-<h4 style="font-family: sans-serif;">Web Development</h4>
-<div style="display: flex; gap:12px; flex-wrap: wrap;">
-  <img src="https://console.kamatera.com/assets/images/os/os_django.png" width=35 alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=35 alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=35 alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=35 alt="Bootstrap"/>
-</div>
-<h4 style="font-family: sans-serif;">Machine Learning & AI</h4>
-<div style="display: flex; gap:12px; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width=35 alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width=35 alt="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width=35 alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width=35 alt="Pandas"/>
-</div>
-
-<h4 style="font-family: sans-serif;">Tools & Platforms</h4>
-<div style="display: flex; gap:12px; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=35 alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width=35 alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=35 alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width=35 alt="Docker"/>
-</div>
-
-<br/>
 
 ---
+
+## About Me
+
+```python
+class SrinjoyDas:
+    def __init__(self):
+        self.username = "SRINJOY59"
+        self.institution = "IIT Kharagpur"
+        self.current_focus = [
+            "Artificial Intelligence",
+            "Large Language Models", 
+            "Quantitative Finance",
+            "Full Stack Development"
+        ]
+        self.learning = [
+            "Advanced Machine Learning Architectures",
+            "Algorithmic Trading Strategies",
+            "LLM Fine-tuning & Prompt Engineering",
+            "Competitive Programming"
+        ]
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together.")
+
+me = SrinjoyDas()
+me.say_hi()
+```
+
+---
+
+## Current Focus Areas
+
+**Artificial Intelligence & Machine Learning**
+- Exploring cutting-edge AI architectures and transformer models
+- Deep learning with TensorFlow and PyTorch
+- Neural network optimization and model deployment
+
+**Large Language Models**
+- Fine-tuning LLMs for specialized tasks
+- Prompt engineering and AI application development
+- Working with state-of-the-art language models
+
+**Quantitative Finance**
+- Algorithmic trading strategy development
+- Financial data analysis and prediction models
+- Risk management using machine learning
+
+**Full Stack Development**
+- Building scalable web applications with Django
+- REST API design and implementation
+- Modern frontend development with React
+
+**Data Structures & Algorithms**
+- Competitive programming in C++
+- Optimizing code performance
+- Problem-solving and algorithmic thinking
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SRINJOY59&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SRINJOY59&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRINJOY59&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SRINJOY59&theme=tokyo-night&hide_border=true&area=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=SRINJOY59&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+## Tech Stack
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Web Development
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Machine Learning & AI
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
+
+## Coding Activity
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+## Quick Stats
+
+---
+
+## Visitor Count
+
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/SRINJOY59/count.svg)
+
+</div>
+
+---
+
+## Let's Connect
+
+I'm always interested in collaborating on exciting projects, especially in AI/ML, quantitative finance, and full-stack development. Feel free to reach out if you want to discuss technology, collaborate on a project, or just have a chat!
+
+**"Code is like humor. When you have to explain it, it's bad." - Cory House**
+
+---
+
+<div align="center">
+
+### Thanks for visiting! Have a great day ahead.
+
+Made with dedication by Srinjoy Das
+
+</div>
