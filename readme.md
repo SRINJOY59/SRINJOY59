@@ -1,220 +1,226 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a00,60:003300,100:00ff41&height=220&section=header&text=SRINJOY%20DAS&fontSize=72&fontColor=00ff41&fontAlignY=40&desc=Low%20Latency%20Systems%20%7C%20Agentic%20AI%20%7C%20Quant%20Finance%20%7C%20SDE&descAlignY=62&descColor=00b4ff&animation=glitch&stroke=00ff41&strokeWidth=2" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=1&section=header"/>
 </div>
+
+```
+┌─────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                             │
+│   ███████╗██████╗ ██╗███╗   ██╗         ██╗ ██████╗ ██╗   ██╗    ██████╗  █████╗ ███████╗  │
+│   ██╔════╝██╔══██╗██║████╗  ██║         ██║██╔═══██╗╚██╗ ██╔╝    ██╔══██╗██╔══██╗██╔════╝  │
+│   ███████╗██████╔╝██║██╔██╗ ██║         ██║██║   ██║ ╚████╔╝     ██║  ██║███████║███████╗  │
+│   ╚════██║██╔══██╗██║██║╚██╗██║    ██   ██║██║   ██║  ╚██╔╝      ██║  ██║██╔══██║╚════██║  │
+│   ███████║██║  ██║██║██║ ╚████║    ╚█████╔╝╚██████╔╝   ██║       ██████╔╝██║  ██║███████║  │
+│   ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝    ╚════╝  ╚═════╝    ╚═╝       ╚═════╝ ╚═╝  ╚═╝╚══════╝  │
+│                                                                                             │
+│            Low Latency Systems  ·  Agentic AI  ·  Quant Research  ·  SDE                   │
+│                              [ IIT Kharagpur ]                                              │
+└─────────────────────────────────────────────────────────────────────────────────────────────┘
+```
 
 <div align="center">
 
-```
-01010011 01010010 01001001 01001110 01001010 01001111 01011001
-```
-
-`[ JACK IN ]` &nbsp;·&nbsp; `[ IIT KHARAGPUR NODE ]` &nbsp;·&nbsp; `[ STATUS: ONLINE ]`
-
-</div>
-
-<br>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00ff41?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/srinjoy-das-174648202)
-[![GitHub](https://img.shields.io/badge/GITHUB-00b4ff?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/SRINJOY59)
-[![Kaggle](https://img.shields.io/badge/KAGGLE-ffffff?style=for-the-badge&logo=kaggle&logoColor=000000)](https://www.kaggle.com/srinjoy3222)
-
-</div>
-
----
-
-<div align="center">
-
-### ▓▓▓ `IDENTITY MATRIX` ▓▓▓
-
-</div>
-
-```python
-"""
-  ░▒▓ LOADING PROFILE... ▓▒░
-"""
-
-IDENTITY = {
-    "handle"       : "SRINJOY59",
-    "institution"  : "IIT Kharagpur",
-    "signal"       : "strong",
-    "threat_level" : "high (in a good way)",
-
-    "core_domains" : [
-        "⚡  Low Latency Systems   →  ns-level execution, lock-free, SIMD",
-        "🤖  Agentic AI / LLMs    →  multi-agent, RAG, fine-tuning, tools",
-        "📐  Quant Finance         →  algo trading, derivatives, risk models",
-        "🏗️  Software Engineering  →  distributed systems, APIs, full stack",
-        "🧠  ML / Deep Learning    →  PyTorch, JAX, model optimization",
-        "♟️  Competitive Programming→  C++, DSA, graph theory, DP"
-    ],
-
-    "current_obsession" : "Making things go faster. Then faster still.",
-    "philosophy"        : "The matrix has you — optimize the matrix."
-}
-```
-
----
-
-<div align="center">
-
-### ▓▓▓ `SKILL TREE` ▓▓▓
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**`>> LOW LATENCY & SYSTEMS`**
-
-```
- ┌─ C++ (17 / 20 / 23)
- ├─ Lock-free data structures
- ├─ Cache-line optimization
- ├─ SIMD / AVX intrinsics
- ├─ Memory-mapped I/O
- ├─ Kernel bypass (DPDK / RDMA)
- ├─ Zero-copy networking
- ├─ CPU pinning & NUMA
- └─ Perf / VTune / Valgrind
-```
-
-**`>> AGENTIC AI`**
-
-```
- ┌─ Multi-agent orchestration
- ├─ LangGraph / CrewAI
- ├─ Tool use & function calling
- ├─ RAG pipelines
- ├─ LLM fine-tuning (PEFT/LoRA)
- └─ Prompt engineering
-```
-
-</td>
-<td width="50%" valign="top">
-
-**`>> QUANT FINANCE`**
-
-```
- ┌─ Algorithmic trading (HFT/MFT)
- ├─ Statistical arbitrage
- ├─ Options pricing (BS, Heston)
- ├─ Portfolio optimization
- ├─ VaR / CVaR / Greeks
- ├─ Real-time market data feeds
- └─ Backtesting infrastructure
-```
-
-**`>> SDE / FULL STACK`**
-
-```
- ┌─ System design & architecture
- ├─ Django / FastAPI / Node.js
- ├─ React / TypeScript
- ├─ Kafka / Redis / PostgreSQL
- ├─ Docker / Linux / CI-CD
- └─ REST & GraphQL APIs
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### ▓▓▓ `ARSENAL` ▓▓▓
-
-</div>
-
-**`// LANGUAGES`**
-
-![C++](https://img.shields.io/badge/C++-00ff41?style=for-the-badge&logo=cplusplus&logoColor=000000)
-![Python](https://img.shields.io/badge/Python-00b4ff?style=for-the-badge&logo=python&logoColor=000000)
-![C](https://img.shields.io/badge/C-ffffff?style=for-the-badge&logo=c&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-00ff41?style=for-the-badge&logo=typescript&logoColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-00b4ff?style=for-the-badge&logo=javascript&logoColor=000000)
-![SQL](https://img.shields.io/badge/SQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=000000)
-
-**`// AI / ML`**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-00ff41?style=for-the-badge&logo=pytorch&logoColor=000000)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-00b4ff?style=for-the-badge&logo=tensorflow&logoColor=000000)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-00ff41?style=for-the-badge&logo=huggingface&logoColor=000000)
-![LangChain](https://img.shields.io/badge/LangChain-00b4ff?style=for-the-badge&logo=langchain&logoColor=000000)
-![scikit--learn](https://img.shields.io/badge/sklearn-ffffff?style=for-the-badge&logo=scikit-learn&logoColor=000000)
-![NumPy](https://img.shields.io/badge/NumPy-00ff41?style=for-the-badge&logo=numpy&logoColor=000000)
-![Pandas](https://img.shields.io/badge/Pandas-00b4ff?style=for-the-badge&logo=pandas&logoColor=000000)
-
-**`// WEB & BACKEND`**
-
-![Django](https://img.shields.io/badge/Django-00ff41?style=for-the-badge&logo=django&logoColor=000000)
-![FastAPI](https://img.shields.io/badge/FastAPI-00b4ff?style=for-the-badge&logo=fastapi&logoColor=000000)
-![React](https://img.shields.io/badge/React-00ff41?style=for-the-badge&logo=react&logoColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js-00b4ff?style=for-the-badge&logo=nodedotjs&logoColor=000000)
-
-**`// INFRA & TOOLS`**
-
-![Linux](https://img.shields.io/badge/Linux-00ff41?style=for-the-badge&logo=linux&logoColor=000000)
-![Docker](https://img.shields.io/badge/Docker-00b4ff?style=for-the-badge&logo=docker&logoColor=000000)
-![Kafka](https://img.shields.io/badge/Kafka-00ff41?style=for-the-badge&logo=apachekafka&logoColor=000000)
-![Redis](https://img.shields.io/badge/Redis-00b4ff?style=for-the-badge&logo=redis&logoColor=000000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=000000)
-![Git](https://img.shields.io/badge/Git-00ff41?style=for-the-badge&logo=git&logoColor=000000)
-
----
-
-<div align="center">
-
-### ▓▓▓ `RUNTIME METRICS` ▓▓▓
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SRINJOY59&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=00ff41&icon_color=00b4ff&text_color=ffffff&border_color=00ff41" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SRINJOY59&hide_border=true&background=000000&stroke=00ff41&ring=00b4ff&fire=00ff41&currStreakLabel=00ff41&sideLabels=ffffff&dates=aaaaaa&currStreakNum=00b4ff&sideNums=ffffff" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRINJOY59&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=ffffff&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SRINJOY59&bg_color=000000&color=00ff41&line=00b4ff&point=ffffff&area_color=001a00&area=true&hide_border=true)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=00ff41&labelColor=0a0a0a)](https://www.linkedin.com/in/srinjoy-das-174648202)
+[![GitHub](https://img.shields.io/badge/-GitHub-0a0a0a?style=flat-square&logo=github&logoColor=00ff41&labelColor=0a0a0a)](https://github.com/SRINJOY59)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-0a0a0a?style=flat-square&logo=kaggle&logoColor=00b4ff&labelColor=0a0a0a)](https://www.kaggle.com/srinjoy3222)
+&nbsp;
+`uptime: always`&nbsp;&nbsp;`load: high`&nbsp;&nbsp;`status: building`
 
 </div>
 
 ---
 
-<div align="center">
-
-### ▓▓▓ `TRANSMISSION` ▓▓▓
+```
+srinjoy@iitkgp:~$ cat about.txt
+```
 
 ```
+  NAME     :  Srinjoy Das
+  HANDLE   :  SRINJOY59
+  NODE     :  IIT Kharagpur
+  ROLE     :  Systems Engineer · ML/AI Engineer · Quant Dev
+  FOCUS    :  Making software run faster than it has any right to
+  CREED    :  If it isn't measured in nanoseconds, is it even fast?
+```
+
+---
+
+```
+srinjoy@iitkgp:~$ ls -la domains/
+```
+
+```
+drwxr-xr-x  ⚡  low-latency-systems/
+drwxr-xr-x  🤖  agentic-ai/
+drwxr-xr-x  📊  quant-finance/
+drwxr-xr-x  🏗️  software-engineering/
+drwxr-xr-x  🧠  machine-learning/
+```
+
+```
+srinjoy@iitkgp:~$ cat domains/low-latency-systems/README
+```
+
+```
+  ── Low Latency & Systems Engineering ────────────────────────────────────
+
+  Language          C++ (17 / 20 / 23) — primary weapon of choice
+  Concurrency       lock-free structures, wait-free queues, atomics
+  Memory            cache-line alignment, huge pages, memory pools
+  CPU               SIMD/AVX intrinsics, CPU pinning, NUMA topology
+  Network           kernel bypass (DPDK), zero-copy I/O, RDMA
+  Profiling         perf, VTune, Valgrind, flamegraphs
+  Target            sub-microsecond execution paths
+```
+
+```
+srinjoy@iitkgp:~$ cat domains/agentic-ai/README
+```
+
+```
+  ── Agentic AI & LLM Systems ─────────────────────────────────────────────
+
+  Frameworks        LangGraph, CrewAI, custom orchestration layers
+  LLMs              fine-tuning (LoRA/PEFT), RAG pipelines, tool use
+  Inference         model quantization, batching, latency optimization
+  Agents            multi-agent planning, reflection loops, memory
+  Libraries         PyTorch · HuggingFace · LangChain · vLLM
+```
+
+```
+srinjoy@iitkgp:~$ cat domains/quant-finance/README
+```
+
+```
+  ── Quantitative Finance ─────────────────────────────────────────────────
+
+  Strategies        statistical arbitrage, mean reversion, momentum
+  Derivatives       options pricing — Black-Scholes, Heston model
+  Risk              VaR, CVaR, Greeks, portfolio optimization
+  Infrastructure    real-time market data feeds, order management
+  Backtesting       event-driven simulation frameworks
+  Data              tick data processing, feature engineering
+```
+
+```
+srinjoy@iitkgp:~$ cat domains/software-engineering/README
+```
+
+```
+  ── Software Engineering ─────────────────────────────────────────────────
+
+  Backend           Django · FastAPI · Node.js · REST · GraphQL
+  Frontend          React · TypeScript · Tailwind CSS
+  Databases         PostgreSQL · Redis · MongoDB · SQLite
+  Infra             Docker · Linux · Kafka · CI/CD pipelines
+  Design            distributed systems · system design · microservices
+```
+
+---
+
+```
+srinjoy@iitkgp:~$ uname -a  # tech stack
+```
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Web & Backend**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Infra & Tools**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+```
+srinjoy@iitkgp:~$ git log --oneline --graph  # github stats
+```
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SRINJOY59&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff41&icon_color=00b4ff&text_color=c9d1d9&ring_color=00b4ff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SRINJOY59&hide_border=true&background=0d1117&stroke=00ff41&ring=00b4ff&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=888888&currStreakNum=00b4ff&sideNums=c9d1d9" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRINJOY59&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=SRINJOY59&bg_color=0d1117&color=00ff41&line=00b4ff&point=ffffff&area_color=001a00&area=true&hide_border=true)
+
+</div>
+
+---
+
+```
+srinjoy@iitkgp:~$ ps -ef --sort=-%cpu | head -8   # what's running
+```
+
+```
+  UID        PROCESS                              STATE     PRIORITY
+  ──────────────────────────────────────────────────────────────────
+  srinjoy    low_latency_cpp_optimization         running   RT
+  srinjoy    agentic_ai_framework                 running   high
+  srinjoy    hft_strategy_backtester              running   high
+  srinjoy    competitive_programming              running   normal
+  srinjoy    ml_model_experiments                 running   normal
+  srinjoy    full_stack_project                   sleeping  low
+```
+
+---
+
+```
+srinjoy@iitkgp:~$ ping linkedin.com -c 1
+```
+
+```
+  PING linkedin.com — 1 packet transmitted
+
   Interested in:
-  ┌─────────────────────────────────────────────────────────┐
-  │  ⚡ Low-latency infra challenges                        │
-  │  🤖 Agentic systems & LLM applications                  │
-  │  📈 Quant / HFT research & strategy                     │
-  │  🏗️ High-scale engineering problems                     │
-  └─────────────────────────────────────────────────────────┘
+    → Low latency / HFT infrastructure challenges
+    → Agentic AI & LLM-powered systems
+    → Quantitative research & algo trading
+    → Hard engineering problems
+
+  Reply from: linkedin.com/in/srinjoy-das-174648202
+  RTT: fast
 ```
 
-[![LinkedIn](https://img.shields.io/badge/INITIATE%20CONNECTION-00ff41?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/srinjoy-das-174648202)
+<div align="center">
+
+[![Connect](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinjoy-das-174648202)
 
 <br>
 
 ```
-> "The Matrix is everywhere. It is all around us.
->  Even now, in this very codebase."
->
-> — also me, debugging at 3am
+"Premature optimization is the root of all evil — but late optimization is just embarrassing."
 ```
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff41,50:003300,100:000000&height=120&section=footer&reversal=true" />
 
 </div>
