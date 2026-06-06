@@ -1,156 +1,203 @@
 <div align="center">
 
-# Hey there, I'm Srinjoy Das
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:00ff88,100:0066ff&height=200&section=header&text=SRINJOY%20DAS&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Low%20Latency%20Systems%20%7C%20ML%20%2F%20AI%20Agents%20%7C%20Quant%20Finance%20%7C%20SDE&descAlignY=60&descColor=00ff88&animation=fadeIn" />
 
-### AI/ML Engineer | Full Stack Developer | Quantitative Finance Enthusiast
+</div>
 
-Currently pursuing my studies at **IIT Kharagpur**, passionate about pushing the boundaries of Artificial Intelligence, Machine Learning, Quantitative Finance, Large Language Models, Full Stack Development with Django, and Data Structures & Algorithms in C++.
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  > SYSTEM PROFILE LOADED                                                    ║
+║  > NAME    : Srinjoy Das                                                    ║
+║  > NODE    : IIT Kharagpur                                                  ║
+║  > STATUS  : Engineering at the intersection of speed, intelligence & math  ║                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinjoy-das-174648202)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SRINJOY59)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/srinjoy3222)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/inquisitive_mind.18/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/srinjoy.das.12)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinjoy-das-174648202)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SRINJOY59)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/srinjoy3222)
 
 </div>
 
 ---
 
-## About Me
+## `$ whoami`
 
-```python
-class SrinjoyDas:
-    def __init__(self):
-        self.username = "SRINJOY59"
-        self.institution = "IIT Kharagpur"
-        self.current_focus = [
-            "Artificial Intelligence",
-            "Large Language Models", 
-            "Quantitative Finance",
-            "Full Stack Development"
-        ]
-        self.learning = [
-            "Advanced Machine Learning Architectures",
-            "Algorithmic Trading Strategies",
-            "LLM Fine-tuning & Prompt Engineering",
-            "Competitive Programming"
-        ]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
+```cpp
+#include <srinjoy.hpp>
 
-me = SrinjoyDas()
-me.say_hi()
+class SrinjoyDas : public Engineer {
+public:
+    const std::string institution  = "IIT Kharagpur";
+    const std::string timezone     = "IST (UTC+5:30)";
+
+    std::vector<std::string> current_stack = {
+        "Low Latency Systems & HFT Infrastructure",
+        "C++ (Modern: 17/20/23)",
+        "Agentic AI & Multi-Agent Orchestration",
+        "ML / Deep Learning / LLMs",
+        "Quantitative Finance & Algo Trading",
+        "Full Stack Engineering"
+    };
+
+    std::string philosophy() {
+        return "Write code that runs faster than you can read it.";
+    }
+};
 ```
 
 ---
 
-## Current Focus Areas
+## `$ cat /proc/expertise`
 
-**Artificial Intelligence & Machine Learning**
-- Exploring cutting-edge AI architectures and transformer models
-- Deep learning with TensorFlow and PyTorch
-- Neural network optimization and model deployment
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Large Language Models**
-- Fine-tuning LLMs for specialized tasks
-- Prompt engineering and AI application development
-- Working with state-of-the-art language models
+### ⚡ Low Latency & Systems
+```
+├── Lock-free data structures
+├── Cache-conscious programming
+├── SIMD / AVX intrinsics
+├── Memory-mapped I/O
+├── Kernel bypass networking
+├── Profiling: perf, valgrind, vtune
+└── Target: nanosecond execution
+```
 
-**Quantitative Finance**
-- Algorithmic trading strategy development
-- Financial data analysis and prediction models
-- Risk management using machine learning
+### 🤖 AI / ML / Agentic Systems
+```
+├── LLM Fine-tuning & PEFT
+├── Retrieval-Augmented Generation
+├── Multi-Agent Frameworks
+│   ├── LangGraph / CrewAI
+│   └── Custom orchestration
+├── PyTorch / TensorFlow / JAX
+└── Model serving & optimization
+```
 
-**Full Stack Development**
-- Building scalable web applications with Django
-- REST API design and implementation
-- Modern frontend development with React
+</td>
+<td width="50%" valign="top">
 
-**Data Structures & Algorithms**
-- Competitive programming in C++
-- Optimizing code performance
-- Problem-solving and algorithmic thinking
+### 📈 Quantitative Finance
+```
+├── Algorithmic trading strategies
+├── Statistical arbitrage
+├── Options pricing (Black-Scholes+)
+├── Backtesting frameworks
+├── Risk management (VaR, CVaR)
+└── Real-time market data pipelines
+```
+
+### 🏗️ Software Engineering
+```
+├── System design & architecture
+├── Django / FastAPI backends
+├── React / TypeScript frontends
+├── REST & GraphQL APIs
+├── PostgreSQL / Redis / Kafka
+└── Docker / Linux / CI-CD
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Statistics
+## `$ lscpu — languages & tools`
+
+### Core Languages
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### AI / ML Stack
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Web & Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Infrastructure & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## `$ htop — github metrics`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SRINJOY59&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SRINJOY59&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SRINJOY59&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SRINJOY59&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff88&ring=0066ff&fire=ff6b35&currStreakLabel=00ff88" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRINJOY59&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRINJOY59&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=8" />
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SRINJOY59&theme=tokyo-night&hide_border=true&area=true)
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SRINJOY59&bg_color=0d1117&color=00ff88&line=0066ff&point=ffffff&area=true&hide_border=true)
 
 </div>
 
 ---
 
-## Tech Stack
+## `$ ps aux — current processes`
 
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Web Development
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Machine Learning & AI
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
+```
+PID   PROCESS                          CPU%   STATUS
+───   ─────────────────────────────    ────   ───────────────────
+001   low_latency_cpp_research         ████   RUNNING
+002   agentic_ai_framework_build       ███    RUNNING
+003   quant_strategy_backtesting       ██     RUNNING
+004   competitive_programming          ██     RUNNING
+005   ml_model_deployment              █      RUNNING
+006   full_stack_project               █      RUNNING
+```
 
 ---
 
-## Let's Connect
+## `$ traceroute — connect with me`
 
-I'm always interested in collaborating on exciting projects, especially in AI/ML, quantitative finance, and full-stack development. Feel free to reach out if you want to discuss technology, collaborate on a project, or just have a chat!
+> I'm always open to collaborating on problems that push limits —  
+> whether it's shaving microseconds off execution, building intelligent agents,  
+> or modeling the market's next move.
 
-**"Code is like humor. When you have to explain it, it's bad." - Cory House**
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on-LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinjoy-das-174648202)
+[![Email](https://img.shields.io/badge/Drop%20a-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srinjoy@iitkgp.ac.in)
+
+</div>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting! Have a great day ahead.
+```
+  "The best optimization is the one you don't have to undo."
+```
 
-Made with dedication by Srinjoy Das
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,50:00ff88,100:0f0f0f&height=100&section=footer&reversal=false" />
 
 </div>
